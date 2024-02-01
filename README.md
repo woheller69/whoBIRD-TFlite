@@ -2,7 +2,7 @@
 
 # whoBIRD TFlite
 
-This repo hosts the Tensorflow-lite models for [whoBIRD](https://github.com/woheller69/whoBIRD)
+This repo hosts the Tensorflow-lite models for [whoBIRD](https://github.com/woheller69/whoBIRD).
 The models are downloaded at the first start of the app.
 
 # License
